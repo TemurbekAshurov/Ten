@@ -1,0 +1,324 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.collapse{
+    margin-left: 660px;
+    height: 25px;
+    width: 100vh;
+    font-size: 25px;
+    font-weight: 700;
+}
+.con{
+    font-size: 40px;
+    font-weight: 800;
+}
+body{
+    width: 100vh;
+}
+.container1{
+    margin-left: 135px;
+}
+.container2{
+    margin-left: 130px;
+}
+
+.home2{
+    width: 100vw;
+    /* width: 1685px; */
+    height: 700px;
+}
+.text{
+    text-align: center;
+    justify-content: center;
+    margin: -400px 450px;
+
+}
+.text h1{
+    color: rgb(0, 0, 0);
+    font-size: 65px;
+}
+.text p{
+    display: flex;
+    font-size: 30px;
+    color:rgb(0, 0, 0) ;
+}
+.text button{
+    width: 100px;
+    height: 40px;
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    border: 1px solid orange;
+}
+
+
+.about{
+    width: 500px;
+    height: 500px;
+    margin: 0 50px;
+}
+.About{
+    text-align: center;
+    align-items: center;
+    margin: -500px 600px;
+    width: 900px;
+    font-size: 35px;
+}
+.About h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+.About button{
+    width: 100px;
+    height: 40px;
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    border: 1px solid orange;
+}
+
+
+
+
+
+.Service{
+    margin: 500px 600px;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+}
+.laptop{
+    margin: 0 70px;
+    font-size: 45px;
+}
+.box{
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+    background-color: rgb(31, 31, 31);
+}
+.box button{
+    width: 100px;
+    height: 80px;
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    border: 1px solid orange;
+}
+
+
+.box1{
+    margin: -500px 550px;
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.box1{
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+    background-color: rgb(31, 31, 31);
+}
+.box1 button{
+    width: 100px;
+    height: 80px;
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    border: 1px solid orange;
+}
+
+.box2{
+    margin: -500px 1100px;
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+    background-color: rgb(31, 31, 31);
+}
+
+.Our{
+    margin-top: -500px;
+}
+
+
+
+
+
+
+
+.Projects{
+    margin: 240px 600px;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+}
+.Project1{
+    width: 500px;
+    height: 1000px;
+    margin: 0 10px;
+    border-radius: 8px;
+    background-color: rgb(203, 215, 211);
+}
+.Projectimg1{
+    margin: 40px 40px;
+    border-radius: 8px;
+}
+.b1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+.b1 button{
+    width: 200px;
+    height: 50px;
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    border: 1px solid orange;
+}
+.Project2{
+    width: 500px;
+    height: 1000px;
+    margin: -1000px 560px;
+    border-radius: 8px;
+    background-color: rgb(203, 215, 211);
+}
+.Projectimg2{
+    margin: 40px 40px;
+    border-radius: 8px;
+}
+.b1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+.b1 button{
+    width: 200px;
+    height: 50px;
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    border: 1px solid orange;
+}
+.Project3{
+    width: 500px;
+    height: 1000px;
+    margin: -1000px 1120px;
+    border-radius: 8px;
+    background-color: rgb(203, 215, 211);
+}
+.Projectimg2{
+    margin: 40px 40px;
+    border-radius: 8px;
+}
+.b1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+.b1 button{
+    width: 200px;
+    height: 50px;
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    border: 1px solid orange;
+}
+
+
+
+
+
+
+
+
+.Odamlar{
+    width: 350px;
+    height: 400px;
+    margin:  10px;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: -20px 100px;
+   
+    
+}
+.Odamlar_1{
+    width: 350px;
+    height: 400px;
+    margin: -400px 500px;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.Odamlar_2{
+    width: 350px;
+    height: 400px;
+    margin: -400px 900px;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.Odamlar_3{
+    width: 350px;
+    height: 400px;
+    margin: -400px 1300px;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.Jack{
+    border-radius: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.form-control{
+ margin: 0 400px;
+}
+.Send{
+    width: 825px;
+    height: 60px;
+    margin: 15px 400px;
+    color: #fff;
+    background-color: orange;
+    border-radius: 10px;
+}
